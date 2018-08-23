@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534990764618,
+            "changeTime": 1534990764618,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534990764618,
+            "changeTime": 1534990764618,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534990764618,
+            "changeTime": 1534990764618,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534991160177,
+            "changeTime": 1534991160177,
+            "contentHash": "438aab99dd5d49c8eaa8b8c2491666683f554009",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534991160196,
+            "changeTime": 1534991160196,
+            "contentHash": "d92268bb10fc6eca1867fb4b4f04dd4f30a1a2c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1534991160195,
+            "changeTime": 1534991160195,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1664,
+            "modifiedTime": 1534991979355,
+            "changeTime": 1534991979355,
+            "contentHash": "e6ac9379d027faa804c23e30e0393b1d4836f614",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1534991160187,
+            "changeTime": 1534991160187,
+            "contentHash": "c8ac37a7479d3afb018b627c2bd06fcd860160ac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1534991160191,
+            "changeTime": 1534991160191,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1534991160196,
+            "changeTime": 1534991160196,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctct.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534991160193,
+            "changeTime": 1534991160193,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctctController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctctController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 246,
+            "modifiedTime": 1534992008265,
+            "changeTime": 1534992008265,
+            "contentHash": "25fb643013187e7749bf8e4bb1742e9aec611b3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctctHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctctHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534991160190,
+            "changeTime": 1534991160190,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctctRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest\\force-app\\main\\default\\aura\\ctct\\ctctRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534991160192,
+            "changeTime": 1534991160192,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\MYTest",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\MYTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534992176890,
+            "changeTime": 1534992176890,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
